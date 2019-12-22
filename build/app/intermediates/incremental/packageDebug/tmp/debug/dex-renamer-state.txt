@@ -1,0 +1,4 @@
+#Sat Dec 21 16:24:15 EET 2019
+base.0=/media/mohamad/DISK1_VOL2/Flutter Project/crud_sqflite/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
